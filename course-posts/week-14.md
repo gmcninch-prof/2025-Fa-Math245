@@ -16,3 +16,4 @@ There will be a review in the last lecture Mon Dec 8.
   [typst](/course-content/2025-12-06--extra-problems.typ)
 
 
+- [final exam solutions](/course-content/final-exam-solutions.pdf)  

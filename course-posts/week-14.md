@@ -12,7 +12,7 @@ There will be a review in the last lecture Mon Dec 8.
 - [final review material](/course-content/final-review.pdf)  
   [solutions](/course-content/final-review-solutions.pdf) 
 
-- [extra problems](/course-content/2025-12-06--extra-problems.pdf) due 12-03
+- [extra problems](/course-content/2025-12-06--extra-problems.pdf)  
   [typst](/course-content/2025-12-06--extra-problems.typ)
 
 
